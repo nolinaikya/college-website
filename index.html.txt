@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nolinaikya Das Choudhury | Mathematics</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Nolinaikya Das Choudhury</h1>
+  <p>M.Sc. Mathematics | CSIR-NET Qualified</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I have completed M.Sc. in Mathematics and Computing from NIT Agartala.
+    I am CSIR-NET qualified and interested in teaching and research in Mathematics.
+  </p>
+</section>
+
+<section>
+  <h2>Academic Profile</h2>
+  <ul>
+    <li>10th: 80%</li>
+    <li>12th: 67%</li>
+    <li>UG: 86%</li>
+    <li>PG: 75%</li>
+    <li>CSIR-NET: Qualified</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Subjects & Skills</h2>
+  <ul>
+    <li>Real Analysis</li>
+    <li>Linear Algebra</li>
+    <li>Abstract Algebra</li>
+    <li>Numerical Methods</li>
+    <li>MATLAB, C++</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: yourname@email.com</p>
+  <p>Mobile: XXXXXXXXXX</p>
+</section>
+
+<footer>
+  <p>© 2025 Nolinaikya Das Choudhury</p>
+</footer>
+
+</body>
+</html>
